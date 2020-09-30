@@ -4,7 +4,7 @@ Simple app created with React
 
 ### General Info 
 
-Purpose this app is find, play and save playlists to your Spotify account. It is projects from codecademy I've added some features for e.g. playing songs. 
+Purpose this app is find, play and save playlists to your Spotify account. It is project from codecademy but I've added some features for e.g. playing songs. 
 
 ### Live version
 
